@@ -3,7 +3,6 @@
 ### 📄 Popis
 
 Základní Minecraft plugin testován na verzi 1.16.5.
-Seznam příkazů: /gmc /gms /gmsp /gma /info /dis /discord
   
   📞Discord podpora: -> https://dsc.gg/galaxycode <-
   
