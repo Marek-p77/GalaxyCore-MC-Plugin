@@ -1,4 +1,4 @@
-# GalaxyCore MC Plugin v1.0
+# GalaxyCore MC Plugin v1.0 [Ukončeno]
 
 ### 📄 Popis
 
